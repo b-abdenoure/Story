@@ -1,0 +1,1 @@
+First I have to master in MVC design pattern then I have to have a touch in MVVM design pattern
