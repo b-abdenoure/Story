@@ -1,1 +1,1 @@
-Practicing design pattern and architecture design is the way to be better as iOS developer
+Learning swiftUI to be up to date iOS developer at the moment when iOS 14 wouldn't be supported by apple
